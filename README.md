@@ -51,7 +51,7 @@ I’m a Computer Science Engineering student passionate about building **practic
   <br/>
 
 </div>
-
+  &nbsp;&nbsp;&nbsp;
 
 **Languages:** Java, JavaScript, C++, Python, SQL  
 **Frontend:** React.js, Next.js, HTML, CSS, Tailwind, Bootstrap, Material UI  
@@ -66,7 +66,7 @@ I’m a Computer Science Engineering student passionate about building **practic
   <img src="https://github-readme-stats.vercel.app/api?username=Kushika-Agarwal&show_icons=true&theme=dracula" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kushika-Agarwal&layout=compact&theme=dracula" height="180"/>
 </div>
-
+  &nbsp;&nbsp;&nbsp;
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kushika-Agarwal&theme=dracula&row=1&column=6" />
 </div>
