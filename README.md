@@ -103,4 +103,5 @@ I’m a Computer Science Engineering student passionate about building **practic
 
 ---
 
-<img src="https://raw.githubusercontent.com/Kushika-Agarwal/maurodesouza/output/snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/Kushika-Agarwal/Kushika-Agarwal/output/snake.svg" alt="Snake animation"/>
+
