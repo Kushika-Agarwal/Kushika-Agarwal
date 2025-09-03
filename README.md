@@ -96,10 +96,11 @@ I’m a Computer Science Engineering student passionate about building **practic
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://developer404-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/static/v1?message=portfolio&logo=portfolio&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
+  
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/Kushika-Agarwal/maurodesouza/output/snake.svg" alt="Snake animation"/>
